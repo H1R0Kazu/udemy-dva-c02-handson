@@ -7,6 +7,7 @@ Udemy「AWS認定Developer Associate（DVA-C02）試験 対策トレーニング
 | フォルダ | 内容 |
 |---|---|
 | [`codebuild-ecs/`](./codebuild-ecs/) | AWS CodeBuild を使用した ECS の起動 |
+| [`codedeploy-s3/`](./codedeploy-s3/) | CodeDeploy で EC2 へ In-place デプロイ（S3 の ZIP） |
 
 今後、ハンズオンごとにサブフォルダを追加していきます。
 
